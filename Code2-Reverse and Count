@@ -11,3 +11,24 @@ reverse :
 #     return reverse
 # a=reverses(123123)
 # print(a)
+
+
+
+count:
+
+# z=sums(9022)
+# print(z)
+# a=sums(z)
+# print(a)
+#count nos
+# def count_nos(n):
+#     count=0
+#     a = int(n)
+#       n=abs(n)
+#     while n>0:
+#
+#         count+=1
+#         n=n//10
+#     return count
+# b=count_nos(123)
+# print(b)
