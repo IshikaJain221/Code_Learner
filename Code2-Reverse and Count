@@ -7,7 +7,7 @@ reverse :
 #
 #         reverse=reverse*10+digit
 #         n = n // 10
-#
+
 #     return reverse
 # a=reverses(123123)
 # print(a)
