@@ -12,7 +12,6 @@ reverse :
 # a=reverses(123123)
 # print(a)
 
-
 count:
 
 # z=sums(9022)
